@@ -35,5 +35,5 @@ app.post("/",function(req,res){
 });
 
 app.listen(8000,function(){
-    console.log("server started running")
+    console.log("server started running on port 8000");
 });
